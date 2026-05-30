@@ -1,1 +1,3 @@
-# WeHelp-application
+### 實作簡單的個人網站作為WeHelp訓練營的申請
+### 我選擇用html+bootstrap，我學習過的工具實作
+### 核心是回答問題和上線，html從簡單的間距和樣式做一些變化。
